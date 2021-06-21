@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/obj/Debug/netcoreapp3.1/ConvertMilesToKilometers.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/obj/Debug/netcoreapp3.1/ConvertMilesToKilometers.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/obj/Debug/netcoreapp3.1/ConvertMilesToKilometers.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/obj/Debug/netcoreapp3.1/ConvertMilesToKilometers.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/bin/Debug/netcoreapp3.1/ConvertMilesToKilometers.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/bin/Debug/netcoreapp3.1/ConvertMilesToKilometers.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/bin/Debug/netcoreapp3.1/ConvertMilesToKilometers.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/bin/Debug/netcoreapp3.1/ConvertMilesToKilometers.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/bin/Debug/netcoreapp3.1/ConvertMilesToKilometers.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/obj/Debug/netcoreapp3.1/ConvertMilesToKilometers.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/obj/Debug/netcoreapp3.1/ConvertMilesToKilometers.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/ConvertMilesToKilometers/obj/Debug/netcoreapp3.1/ConvertMilesToKilometers.genruntimeconfig.cache
